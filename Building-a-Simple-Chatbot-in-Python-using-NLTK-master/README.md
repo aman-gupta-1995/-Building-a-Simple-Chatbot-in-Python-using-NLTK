@@ -22,7 +22,7 @@ For detailed overview, here is the accompanying blog titled:**[Building a Simple
 
     
 ## Pre-requisites  
-**NLTK(Natural Language Toolkit)**
+**NLTK(Natural Language Toolkit)** 
 
 [Natural Language Processing with Python](http://www.nltk.org/book/) provides a practical introduction to programming for language processing.
 
