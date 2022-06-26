@@ -20,7 +20,7 @@ The idea of this project was not to create some SOTA chatbot with exceptional co
 ## BlogPost
 For detailed overview, here is the accompanying blog titled:**[Building a Simple Chatbot in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)**
 
-    
+     
 ## Pre-requisites  
 **NLTK(Natural Language Toolkit)** 
 
