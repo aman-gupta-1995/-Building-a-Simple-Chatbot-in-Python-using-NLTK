@@ -1,7 +1,7 @@
 
 #Meet Robo: your friend
 
-#import necessary libraries  
+#import necessary libraries   
 import io 
 import random      
 import string # to process standard python strings     
